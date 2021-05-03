@@ -389,23 +389,6 @@ p {
   background: center center no-repeat ;
 }
 
-.footer {
-  height: 152px;
-  position: relative;
-  border-top: 1px solid rgba(255, 255, 255, 0.1);
-}
-
-.footer .logo {
-  top: 40px;
-}
-.footer .navigation {
-  top: 55px;
-  left: 328px;
-}
-.footer .header__contacts {
-  top: 47px;
-}
-
 .social__item--telegram .social__link {
   background-image: url("/img/telegram.png");
 }
@@ -434,4 +417,22 @@ p {
 
 .social__item--in .social__link:hover {
   background-image: url("/img/in2.png");
+}
+
+
+.footer {
+  height: 152px;
+  position: relative;
+  border-top: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.footer .logo {
+  top: 40px;
+}
+.footer .navigation {
+  top: 55px;
+  left: 328px;
+}
+.footer .header__contacts {
+  top: 47px;
 }
