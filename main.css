@@ -407,31 +407,31 @@ p {
 }
 
 .social__item--telegram .social__link {
-  background-image: url(/img/telegram.png);
+  background-image: url(img/telegram.png);
 }
 
 .social__item--telegram .social__link:hover {
-  background-image: url(/img/telegram2.png);
+  background-image: url(img/telegram2.png);
 }
 
 .social__item--vk .social__link {
-  background-image: url(/img/vk.png);
+  background-image: url(img/vk.png);
 }
 
 .social__item--vk .social__link:hover {
-  background-image: url(/img/vk2.png);
+  background-image: url(img/vk2.png);
 }
 .social__item--f .social__link {
-  background-image: url(/img/f.png);
+  background-image: url(img/f.png);
 }
 
 .social__item--f .social__link:hover {
-  background-image: url(/img/f2.png);
+  background-image: url(img/f2.png);
 }
 .social__item--in .social__link {
-  background-image: url(/img/in.png);
+  background-image: url(img/in.png);
 }
 
 .social__item--in .social__link:hover {
-  background-image: url(/img/in2.png);
+  background-image: url(img/in2.png);
 }
