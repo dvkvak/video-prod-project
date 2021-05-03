@@ -383,7 +383,7 @@ p {
 
 .social__link {
   display: block;
-  text-decoration: none;
+  text-decoration: underline;
   width: 36px;
   height: 36px;
   background: center center no-repeat ;
