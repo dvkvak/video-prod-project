@@ -382,7 +382,6 @@ p {
 }
 
 .social__link {
-  content: "";
   display: block;
   text-decoration: none;
   width: 36px;
