@@ -34,6 +34,10 @@ p {
   margin: 0;
 }
 
+.main-page-wrapper {
+  background: url("img/hero.png") center top no-repeat, url("img/bottom-pic.png") center bottom 300px no-repeat;
+}
+
 .container {
   margin: 0 auto;
   width: 1142px;
