@@ -161,6 +161,7 @@ p {
   margin-right: 23px;
   border-radius: 5px;
   vertical-align: top;
+  padding: 20px 17px;
 }
 
 .offer:last-child {
@@ -171,10 +172,6 @@ p {
   border: solid 5px #ccc;
 }
 
-.offer__content {
-  padding-left: 17px;
-  padding-right: 17px;
-}
 
 .offer__image {
   padding-top: 34px;
