@@ -1,0 +1,10 @@
+.features__list {
+  display: flex;
+  justify-content: space-between;
+}
+
+.features__item {
+  width: calc(50% - 23px);
+}
+
+

@@ -1,0 +1,27 @@
+.footer {
+  border-top: 1px solid rgba(255, 255, 255, 0.1);
+  background-color: #17191C;
+  height: 92px;
+  padding-top: 42px;
+  margin-bottom: 48px;
+}
+
+.footer__content {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.footer .menu {
+  margin-top: 16px;
+  margin-left: 56px;
+}
+
+.footer .social {
+  margin-top: 8px;
+  margin-left: 48px;
+}
+
+.footer .contacts {
+  margin-top: 4px;
+}

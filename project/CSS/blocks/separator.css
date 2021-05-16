@@ -1,0 +1,15 @@
+.separator {
+  display: flex;
+  align-items: center;
+  background: url(/img/party.png) right 10% bottom no-repeat;
+  background-color: #373737;
+  min-height: 363px;
+}
+
+.separator__title {
+  font-size: 48px;
+  font-weight: 700;
+  line-height: 65, 37px;
+  max-width: 50%;
+  vertical-align: middle;
+}

@@ -1,0 +1,26 @@
+.header {
+  margin-bottom: 100px;
+}
+
+.header__content {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  height: 129px;
+}
+
+.header .logo {
+  margin-top: 21px;
+}
+
+.header .menu {
+  margin-top: 40px;
+  margin-right: 9px;
+}
+
+.header .contacts {
+  margin-top: 27px;
+}
+
+
+

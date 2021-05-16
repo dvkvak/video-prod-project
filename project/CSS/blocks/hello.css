@@ -1,0 +1,63 @@
+.hello__logo {
+  margin-bottom: 60px;
+}
+
+.hello {
+  margin-top: -100px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: auto auto;
+  animation: go 1s;
+  opacity: 0;
+  animation-delay: 0.5s;
+  animation-fill-mode: forwards;
+  animation-timing-function: cubic-bezier(.43,1.03,.61,1.07);
+  animation-play-state: running;
+  position: relative;
+}
+
+@keyframes go {
+  0% {
+    opacity: 0;
+    transform: rotate(0deg);
+    transform: scale(0.1);
+  }
+
+  65% {
+    transform: rotate(-7deg);
+  }
+
+  85% {
+    transform: rotate(2deg);
+  }
+
+  100% {
+    transform: scale(1);
+    opacity: 1;
+    transform: rotate(0deg);
+  }
+}
+
+.hello:before {
+  display: block;
+  content: url(/img/rec.png);
+  position: absolute;
+  bottom: -185px;
+  animation: go2 0.5s;
+  opacity: 0;
+  animation-delay: 1.7s;
+  animation-fill-mode: forwards;
+  animation-timing-function: cubic-bezier(.43,1.03,.61,1.07);
+  animation-play-state: running;
+  z-index: -1;
+}
+
+@keyframes go2 {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}

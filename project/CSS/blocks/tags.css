@@ -1,0 +1,23 @@
+.tags__list {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.tag {
+  font-size: 13px;
+  background-color: #E7E7E7;
+  color: #1A1B1E;
+  border-radius: 30px;
+  vertical-align: middle;
+  padding: 10px 25px;
+  margin-right: 13px;
+  margin-bottom: 10px;
+  cursor: pointer;
+}
+
+.tag-active {
+  background-color: #F2D4C9;
+  cursor: default;
+}

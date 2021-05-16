@@ -1,0 +1,23 @@
+.welcome__content {
+  display: flex;
+  flex-direction: column;
+  width: 776px;
+  margin: auto;
+  margin-bottom: 233px;
+  align-items: center;
+}
+
+.welcome__title {
+  font-size: 72px;
+  font-weight: 800;
+  line-height: 98px;
+  margin-bottom: 17px;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.welcome__subtitle {
+  font-size: 18px;
+  margin-bottom: 39.5px;
+  text-align: center;
+}

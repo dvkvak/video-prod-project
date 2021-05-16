@@ -1,0 +1,32 @@
+.feedback {
+  background-color: #F4F5F5;
+  padding: 78px 0 96px;
+}
+
+.feedback__content {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.feedback__title {
+  color: #202020;
+  font-size: 36px;
+  font-weight: 800;
+  text-transform: uppercase;
+  margin-bottom: 56px;
+}
+
+.feedback__buttons {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.feedback__buttons .button {
+  margin-right: 12px;
+  width: 168px;
+}
+
+.feedback__buttons .button:last-child {
+  margin-right: 0;
+}

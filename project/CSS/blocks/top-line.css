@@ -1,0 +1,24 @@
+.top-line {
+  height: 416px;
+  background: url("/img/top-line.png") center top -30% no-repeat;
+  background-color: rgb(17, 17, 19)
+}
+
+.top-line__content {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding-bottom: 26px;
+}
+
+.top-line .header {
+  margin-bottom: 0;
+}
+
+.top-line__title {
+  text-transform: uppercase;
+  font-size: 72px;
+  font-weight: 800;
+  margin-bottom: 22px;
+}

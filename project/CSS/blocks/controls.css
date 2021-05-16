@@ -1,0 +1,33 @@
+.feedback__controls {
+  margin-bottom: 13px;
+}
+
+.controls {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+}
+
+.controls__title {
+  width: 32%;
+  font-size: 18px;
+  color: #1A1B1E;
+  font-weight: 400;
+  margin-right: 72px;
+}
+
+.controls__list {
+  flex: 1;
+}
+
+.controls__checkbox:checked ~ .controls__tag {
+  background-color: #F2D4C9;
+}
+
+.controls__tag {
+  transition: 0.5s;
+}
+
+.controls__checkbox {
+  display: none;
+}
