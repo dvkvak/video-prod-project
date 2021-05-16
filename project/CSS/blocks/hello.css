@@ -41,7 +41,7 @@
 
 .hello:before {
   display: block;
-  content: url(img/rec.png);
+  content: url(/video-prod-project/project/img/rec.png);
   position: absolute;
   bottom: -185px;
   animation: go2 0.5s;
