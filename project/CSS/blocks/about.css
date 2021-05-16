@@ -12,7 +12,7 @@
   display: block;
   width: 490px;
   height: 505px;
-  background: url(img/cameraman.png) center center / cover no-repeat;
+  background: url(/video-prod-project/project/img/cameraman.png) center center / cover no-repeat;
 }
 
 .about__info {
