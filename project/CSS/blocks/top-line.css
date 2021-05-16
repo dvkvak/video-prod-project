@@ -1,6 +1,6 @@
 .top-line {
   height: 416px;
-  background: url("/img/top-line.png") center top -30% no-repeat;
+  background: url(/video-prod-project/project/img/top-line.png) center top -30% no-repeat;
   background-color: rgb(17, 17, 19)
 }
 
