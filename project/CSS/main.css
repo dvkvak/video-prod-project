@@ -1,5 +1,5 @@
-@import url(/video-prod-project/project/CSS/layout/normalize.css);
-@import url(/video-prod-project/project/CSS/layout/base.css);
+@import url(/video-prod-project/project/CSS/layouts/normalize.css);
+@import url(/video-prod-project/project/CSS/layouts/base.css);
 
 @import url(/video-prod-project/project/CSS/blocks/background.css);
 @import url(/video-prod-project/project/CSS/blocks/hello.css);
