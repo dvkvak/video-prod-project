@@ -1,8 +1,8 @@
 .main-page-wrapper {
   background: url(/video-prod-project/project/img/hero.png) center top no-repeat,
-  url(/video-prod-project/project/img/bottom-pic.png") center bottom 300px no-repeat;
+  url(/video-prod-project/project/img/bottom-pic.png) center bottom 300px no-repeat;
 }
 
 .hello-page-wrapper {
-  background: url(/video-prod-project/project/img/bg.png") center center no-repeat;
+  background: url(/video-prod-project/project/img/bg.png) center center no-repeat;
 }
