@@ -22,7 +22,7 @@
 
 .social__item--telegram .social__link {
   width: 36px; height: 36px;
-  background: url(/img/css_sprites.png) -66px -10px;
+  background: url(/video-prod-project/project/img/css_sprites.png) -66px -10px;
 }
 
 .social__item--telegram .social__link:hover {
