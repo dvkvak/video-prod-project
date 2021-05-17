@@ -50,13 +50,12 @@
   color: #1A1B1E;
   display: flex;
   align-items: center;
-  text-decoration: underline #2E77A4;
   transition: 0.2s;
   font-size: 24px;
   line-height: 42px;
   font-weight: 700;
   margin-bottom: 4px;
-  opacity: text-decoration (0);
+
 }
 
 
@@ -68,7 +67,6 @@
 
 .review__name:hover {
   color: #2E77A4;
-  opacity: (1);
   
 }
 
