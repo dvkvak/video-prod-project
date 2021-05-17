@@ -55,6 +55,7 @@
   line-height: 42px;
   font-weight: 700;
   margin-bottom: 4px;
+  text-decoration: none;
 
 }
 
@@ -67,6 +68,7 @@
 
 .review__name:hover {
   color: #2E77A4;
+  text-decoration: underline;
   
 }
 
