@@ -17,8 +17,9 @@
 }
 
 .partners__item {
-  margin-left: 106px;
-  transition: 1s;
+  /* margin-left: 106px; */
+  margin-left: 70px;
+  transition: 0.7s;
 }
 
 .partners__item:nth-child(4n + 1) {
@@ -30,11 +31,16 @@
   display: flex;
   width: 206px;
   height: 128px;
-  justify-content: space-between;
+  justify-content: center;
   align-items: center;
+  filter: grayscale(100%);
 }
 
-.partners__link:hover .partners__logo{
+.partners__link:hover {
+  filter: grayscale(0%);
+}
+
+.partners__link:hover .partners__logo {
   transform: scale(1.1);
 }
 
@@ -43,6 +49,3 @@
   transition: 0.5s;
 }
 
-/* .partners__logo:hover {
-  transform: scale(1.1);
-} */

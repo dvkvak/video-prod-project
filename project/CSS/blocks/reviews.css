@@ -59,14 +59,15 @@
 }
 
 
-.review__name::after {
+.review__name:after {
   height: 30px;
   margin-left: 8px;
-  content: url(img/vk-blue.png);
+  content: url(/video-prod-project/project/img/vk-blue.png);
 }
 
 .review__name:hover {
   color: #2E77A4;
+  text-decoration: underline #2E77A4;
 }
 
 .review__title {
