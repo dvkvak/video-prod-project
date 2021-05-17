@@ -6,6 +6,7 @@
 .social__item {
   display: block;
   margin-right: 10px;
+  transition: 0.3s;
 }
 
 .social__item:last-child {
